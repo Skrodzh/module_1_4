@@ -1,4 +1,5 @@
 my_string = input()
+print(len(my_string))
 print(my_string.upper())
 print(my_string.upper().lower())
 print(my_string.replace(" ", ""))
